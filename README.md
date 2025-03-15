@@ -13,33 +13,33 @@ Este é um projeto simples de sorteio de amigo secreto desenvolvido com HTML, CS
 * Interface simples e amigável para interações com o usuário.
 
 ### Tecnologias Utilizadas 🛠
-HTML: Para estruturação da página.
+* HTML: Para estruturação da página.
 
-CSS: Para estilização e design da interface.
+* CSS: Para estilização e design da interface.
 
-JavaScript: Para lógica do sorteio e manipulação da DOM.
+* JavaScript: Para lógica do sorteio e manipulação da DOM.
 
 ### Como Usar 🚀
-Pré-requisitos
-Um navegador moderno (como Google Chrome, Firefox ou Edge).
+#### Pré-requisitos
+* Um navegador moderno (como Google Chrome, Firefox ou Edge).
 
-Clone ou faça o download deste repositório:
+* Clone ou faça o download deste repositório:
 
-bash
+* bash
 git clone https://github.com/Nunesmann/Challenge-Amigo-Secreto
-Passos
-Abra o arquivo index.html em seu navegador.
+#### Passos
+* Abra o arquivo index.html em seu navegador.
 
-Insira os nomes dos participantes no campo de texto.
+* Insira os nomes dos participantes no campo de texto.
 
-Clique em "Adicionar" para incluir os nomes na lista.
+* Clique em "Adicionar" para incluir os nomes na lista.
 
-Após adicionar todos os nomes, clique no botão "Sortear amigo" para realizar o sorteio.
+* Após adicionar todos os nomes, clique no botão "Sortear amigo" para realizar o sorteio.
 
-O nome do amigo secreto será exibido abaixo.
+* O nome do amigo secreto será exibido abaixo.
 
 ### Estrutura do Projeto 📂
-amigo-secreto/
+amigo-secreto/|
 ├── index.html      # Arquivo principal da interface
 ├── style.css       # Estilos para a aplicação
 ├── app.js          # Lógica do sorteio
