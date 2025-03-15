@@ -26,7 +26,7 @@ Um navegador moderno (como Google Chrome, Firefox ou Edge).
 Clone ou faça o download deste repositório:
 
 bash
-git clone https://github.com/Nunesmann/Challenge-Amigo-Secreto/blob/main/index.html
+git clone https://github.com/Nunesmann/Challenge-Amigo-Secreto
 Passos
 Abra o arquivo index.html em seu navegador.
 
