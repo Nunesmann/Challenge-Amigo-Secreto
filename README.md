@@ -1,7 +1,7 @@
 # Challenge Amigo Secreto
 
-Sorteio de Amigo Secreto 🎁
-###### Este é um projeto simples de sorteio de amigo secreto desenvolvido com HTML, CSS e JavaScript. A aplicação permite que os usuários adicionem os nomes dos participantes e realizem o sorteio de forma aleatória, exibindo o resultado na interface.
+### Sorteio de Amigo Secreto 🎁
+Este é um projeto simples de sorteio de amigo secreto desenvolvido com HTML, CSS e JavaScript. A aplicação permite que os usuários adicionem os nomes dos participantes e realizem o sorteio de forma aleatória, exibindo o resultado na interface.
 
 ### Funcionalidades 🌟
 * Adicionar participantes para o sorteio.
